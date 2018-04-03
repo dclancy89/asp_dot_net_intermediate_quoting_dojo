@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Quoting Dojo/bin/Debug/netcoreapp2.0/Quoting Dojo.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Quoting Dojo/bin/Debug/netcoreapp2.0/Quoting Dojo.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Quoting Dojo/bin/Debug/netcoreapp2.0/Quoting Dojo.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Quoting Dojo/bin/Debug/netcoreapp2.0/Quoting Dojo.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Quoting Dojo/bin/Debug/netcoreapp2.0/Quoting Dojo.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Quoting Dojo/obj/Debug/netcoreapp2.0/Quoting Dojo.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Quoting Dojo/obj/Debug/netcoreapp2.0/Quoting Dojo.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Quoting Dojo/obj/Debug/netcoreapp2.0/Quoting Dojo.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Quoting Dojo/obj/Debug/netcoreapp2.0/Quoting Dojo.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Quoting Dojo/obj/Debug/netcoreapp2.0/Quoting Dojo.pdb

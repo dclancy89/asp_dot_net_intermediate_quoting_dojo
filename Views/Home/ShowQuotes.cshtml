@@ -1,0 +1,11 @@
+<h1>Quotes</h1>
+@foreach(var x in ViewBag.Quotes)
+{
+    <div class="quote">
+        <p>&quot;@x["quote"]&quot;</p>
+        <p class="author">-@x["name"] at @x["created_at"]</p>
+    </div>
+    
+}
+
+<a href="/" class="button">Home</a>
